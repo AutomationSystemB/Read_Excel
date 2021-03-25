@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<Cylinders>
+  <TableCylinders>
+    <Name>dfsdf</Name>
+    <InHomeIdx>1</InHomeIdx>
+    <InWorkIdx>1</InWorkIdx>
+    <OutHomeIdx>1</OutHomeIdx>
+    <OutWorkIdx>1</OutWorkIdx>
+    <Timeout>12000</Timeout>
+    <ConfigType>1</ConfigType>
+  </TableCylinders>
+</Cylinders>

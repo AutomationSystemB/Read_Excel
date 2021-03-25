@@ -1,0 +1,33 @@
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.csprojAssemblyReference.cache
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.csproj.ResolveComReference.cache
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.Form1.resources
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.Properties.Resources.resources
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.csproj.GenerateResource.cache
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.csproj.CoreCompileInputs.cache
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\bin\Debug\REad_Excel.exe.config
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\bin\Debug\REad_Excel.exe
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\bin\Debug\REad_Excel.pdb
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.exe
+C:\Users\filipesilva\source\repos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.pdb
+C:\Controlar\REad_Excel\REad_Excel\bin\Debug\REad_Excel.exe.config
+C:\Controlar\REad_Excel\REad_Excel\bin\Debug\REad_Excel.exe
+C:\Controlar\REad_Excel\REad_Excel\bin\Debug\REad_Excel.pdb
+C:\Controlar\REad_Excel\REad_Excel\obj\Debug\Read_Excel.csprojAssemblyReference.cache
+C:\Controlar\REad_Excel\REad_Excel\obj\Debug\Read_Excel.csproj.ResolveComReference.cache
+C:\Controlar\REad_Excel\REad_Excel\obj\Debug\REad_Excel.Form1.resources
+C:\Controlar\REad_Excel\REad_Excel\obj\Debug\REad_Excel.Properties.Resources.resources
+C:\Controlar\REad_Excel\REad_Excel\obj\Debug\Read_Excel.csproj.GenerateResource.cache
+C:\Controlar\REad_Excel\REad_Excel\obj\Debug\Read_Excel.csproj.CoreCompileInputs.cache
+C:\Controlar\REad_Excel\REad_Excel\obj\Debug\REad_Excel.exe
+C:\Controlar\REad_Excel\REad_Excel\obj\Debug\REad_Excel.pdb
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\bin\Debug\REad_Excel.exe.config
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\bin\Debug\REad_Excel.exe
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\bin\Debug\REad_Excel.pdb
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\obj\Debug\Read_Excel.csproj.ResolveComReference.cache
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.Form1.resources
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.Properties.Resources.resources
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\obj\Debug\Read_Excel.csproj.GenerateResource.cache
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\obj\Debug\Read_Excel.csproj.CoreCompileInputs.cache
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.exe
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\obj\Debug\REad_Excel.pdb
+C:\Users\Filipesilva\OneDrive - Controlar SA\Projectos\REad_Excel\REad_Excel\obj\Debug\Read_Excel.csprojAssemblyReference.cache
